@@ -20,7 +20,7 @@
 ### 🛠️ Skills
 
 `Python` `C/C++` `SQL` `Flask` `scikit-learn` `OpenCV`  
-`Streamlit` `Git` `HTML/CSS` `TailwindCSS`
+`Seaborn` `Pandas` `NumPy` `Git` `HTML/CSS` `TailwindCSS` `Tensorflow` `Matplotlib`
 
 ---
 
