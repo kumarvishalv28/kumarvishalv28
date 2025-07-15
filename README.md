@@ -1,56 +1,80 @@
-<h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
-<h3 align="center">AI/ML Enthusiast | Python Developer | Project Builder</h3>
+# 🌟 Quick Overview
+Hi! I'm **Vishal Kumar**, a B.Tech student specializing in **Computer Science (AI & ML)**.  
+This showcases my featured projects, skills, certifications, and contact details.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
-  <a href="mailto:kumarvishalv28@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Location-Ghaziabad-green" />
-</p>
+🎯 **Objective**: Demonstrate my technical abilities through real-world projects and web apps.
 
----
-
-### 🧑‍💻 About Me
-
-🎓 B.Tech CSE (AI & ML) — IMS Engineering College, Ghaziabad  
-💡 Passionate about building intelligent solutions using Python, AI/ML, and Web Tech  
-📫 Reach me: **kumarvishalv28@gmail.com** | [LinkedIn](https://www.linkedin.com/in/vishal-kumar-376b04295/)
+🔗 **Live Portfolio**: [https://kumarvishalv28.netlify.app](https://kumarvishalv28.netlify.app)
 
 ---
 
-### 🛠️ Skills
+## 🚀 Projects
 
-`Python` `C/C++` `SQL` `Flask` `scikit-learn` `OpenCV`  
-`Seaborn` `Pandas` `NumPy` `Git` `HTML/CSS` `TailwindCSS` `Tensorflow` `Matplotlib`
-
----
-
-### 🚀 Projects
-
-#### 📘 EduTrack – College ERP  
-> A Flask-based ERP web app with role-based login (Admin/Faculty/Student), attendance, assignment upload, grading & analytics.
-
-#### 🎙️ Dynum – Virtual Assistant  
-> A modern Python-based voice assistant that performs tasks, answers queries, and interacts with users through a stylish GUI.
-
-#### 🖥️ Real-Time Employee Monitoring  
-> An AI-powered system to monitor employee activity using computer vision, detect idle/drowsy states, and generate dashboards.
+### 🔬 Exploratory Data Analysis Web App
+An interactive Streamlit web app to automate EDA on uploaded CSV files.
+- 📊 Features: Summary stats, visualizations, missing values, export options
+- 🔗 [Live App](https://kumarvishaleda.streamlit.app)
+- 💻 [GitHub Repository](https://github.com/kumarvishalv28/EDA)
+- 🛠 Tech Stack: Python, Pandas, Seaborn, Matplotlib, Streamlit
 
 ---
 
-### 📜 Certifications
-
-- ✅ C/C++ – Ducat  
-- ✅ AI using Python – Ducat  
-- ✅ Data Science using Python
-
----
-
-### 📞 Contact
-
-📧 **kumarvishalv28@gmail.com**  
-📱 **+91 9389911300**  
-🔗 [LinkedIn](https://www.linkedin.com/in/vishal-kumar-376b04295/)
+### 🎬 VibeView – Movie Recommender Web App
+A Flask-based movie recommender filtering by genre, release year, and IMDb rating.
+- 🎥 Real-world dataset (1920–2024), Google Drive integration, responsive UI
+- 💻 [GitHub Repository](https://github.com/kumarvishalv28/VibeView)
+- 🛠 Tech Stack: Python, Flask, Pandas, HTML/CSS, API Integration
 
 ---
 
-> 🚀 *Let's connect, build, and innovate together!*
+### 🏫 EduTrack – College ERP System
+Flask web app to manage students, faculty, and admins with dashboards and analytics.
+- 👨‍🏫 Features: Attendance, assignment uploads, grading, dashboards
+- 🛠 Tech Stack: Flask, SQLite, HTML/CSS, JavaScript
+
+---
+
+### 🤖 Dynum – Virtual Assistant
+Python desktop app with voice command automation and GUI interface.
+- 🗣 Voice recognition, desktop tasks, stylish GUI
+- 🛠 Tech Stack: Python, Tkinter, SpeechRecognition, Pyttsx3
+
+---
+
+## 🧠 Skills
+
+| Languages & Tools | Libraries & Frameworks |
+|-------------------|-------------------------|
+| `Python` `C/C++` `SQL` | `Flask` `Streamlit` `HTML` `CSS` |
+| `Git & GitHub` | `Pandas` `NumPy` `Matplotlib` `Seaborn` |
+| `OpenCV` `Scikit-learn` | `API Integration` |
+
+---
+
+## 📜 Certifications
+
+- 🎓 **Data Science using Python** – Qacademy (2024)  
+- 🎓 **Artificial Intelligence using Python** – Ducat (2024)  
+- 🎓 **C/C++ Programming** – Ducat (2022)
+
+---
+
+## 📬 Contact Me
+
+- 📧 Email: [kumarvishalv28@gmail.com](mailto:kumarvishalv28@gmail.com)  
+- 📱 Phone: +91 9389911300  
+- 💼 [LinkedIn](https://www.linkedin.com/in/vishal-kumar-376b04295/)  
+- 💻 [GitHub](https://github.com/kumarvishalv28)
+
+---
+
+## 🌐 Deployment Details
+
+- 🔹 Deployed on **Netlify**
+- 🔹 Fully responsive layout with **Tailwind CSS**
+- 🔹 Smooth scroll animations and modern transitions
+- 🔹 Designed for both desktop and mobile screens
+
+---
+
+> 💡 _Feel free to fork or star this repo if it inspired you!_
